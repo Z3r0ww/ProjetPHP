@@ -62,4 +62,15 @@ Pour ce projet, j'ai appliqué les bonnes pratiques de gestion de versions (Git)
 - **Hachage** : Utilisation de `password_hash()` pour la protection des mots de passe utilisateurs.
 
 ---
+
+## 🔐 Identifiants de Test (Jury)
+
+Pour faciliter l'examen de l'application, voici des comptes pré-configurés avec des jeux d'essais réalistes :
+
+| Rôle | Utilisateur | Mot de passe |
+| :--- | :--- | :--- |
+| **Administrateur** | `admin` | `superadmin` |
+| **Utilisateur** | `utilisateur` | `utilisateur1` |
+
+---
 **Développé par Servillat Lucas** - *Candidat BTS SIO*
